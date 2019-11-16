@@ -1,0 +1,47 @@
+  Proyecto2Avanzada1210219JavierMorales.Agregar.resources - Embedded, ContainedInManifestFile, 
+  Proyecto2Avanzada1210219JavierMorales.MyForm.resources - Embedded, ContainedInManifestFile, 
+  Proyecto2Avanzada1210219JavierMorales.Sesion.resources - Embedded, ContainedInManifestFile, 
+  Proyecto2Avanzada1210219JavierMorales.UsuarioNuevo.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Proyecto_2_Avanzada_1210219_Javier_Morales, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Proyecto2Avanzada1210219JavierMorales.Agregar: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Evento* Creado : Public
+    ListaEventos* ListaPrueba : Public
+    System.String fech : Public
+    Boolean nuevoEvento : Public
+  Methods:
+    ReiniciarForm(): PrivateScope, Public, HideBySig
+Class Proyecto2Avanzada1210219JavierMorales.UsuarioNuevo: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Proyecto2Avanzada1210219JavierMorales.Sesion: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Boolean Listo_para_cerrar : Public
+    System.String Usuario_Iniciado : Public
+    System.String Password_Iniciada : Public
+Class Proyecto2Avanzada1210219JavierMorales.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    ListaEventos* LaLista : Public
+    System.String PassWordActual : Public
+    Evento* Agregar_Este : Public
+    System.String fecha_selec : Public

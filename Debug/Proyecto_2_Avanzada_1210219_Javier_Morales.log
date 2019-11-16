@@ -1,0 +1,8 @@
+﻿  Agregar.cpp
+  Evento.cpp
+  ListaEventos.cpp
+  MyForm.cpp
+  Generating Code...
+C:\Users\Javier\source\repos\Proyecto_2_Avanzada_1210219_Javier_Morales\MyForm.h(1137,10): warning C4101: 'HoraEvento': unreferenced local variable
+  Agregar.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Proyecto_2_Avanzada_1210219_Javier_Morales.vcxproj -> C:\Users\Javier\source\repos\Proyecto_2_Avanzada_1210219_Javier_Morales\Debug\Proyecto_2_Avanzada_1210219_Javier_Morales.exe
